@@ -1,0 +1,23 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Godot-specific files
+.import/
+.export/
+*.import
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Windows-specific files
+*.exe
+*.dll
+
+# MacOS-specific files
+*.dmg
+*.app
+
+# Backup files
+*.bak
+*.tmp
